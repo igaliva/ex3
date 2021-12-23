@@ -1,4 +1,3 @@
-console.log('Hello World');
 let num1 = prompt('please enter the first number');
 let num2 = prompt('please enter the second number');
 let num3 = parseInt(num1)/parseInt(num2);
